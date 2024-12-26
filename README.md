@@ -1,6 +1,6 @@
 # Preview 🌐📞
 
-![Contact Page Preview](./Contact20Page.png)
+![Contact Page Preview](./ContactPage.png)
 
 ---
 
