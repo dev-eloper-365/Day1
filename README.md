@@ -1,10 +1,10 @@
-# Preview 🌐📞
+# Preview 
 
 ![Contact Page Preview](./Contact%20Page.png)
 
 ---
 
-# Contact Page 🌐📞
+# Contact Page 
 
 Welcome to the **Contact Page** project! This is a simple and interactive project designed to provide users with a seamless way to reach out. The page offers multiple contact options, including live chat, email form, and call support, all wrapped in a modern UI.
 
